@@ -120,6 +120,7 @@ spring-config.xml中把ehcache注掉，把redis放开！
 @NotEmpty   被注释的字符串的必须非空  
 @Range(min=,max=,message=)  被注释的元素必须在合适的范围内
 
+![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-0.png)
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-1.png)
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-2.png)
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-3.png)
