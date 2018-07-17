@@ -126,5 +126,3 @@ spring-config.xml中把ehcache注掉，把redis放开！
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-4.png)
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-5.png)
 ![](http://uniquezhangqi.oss-cn-shenzhen.aliyuncs.com/blog/2018-07-17-104613.png)
-
-注：后续会优化排版，有问题请联系QQ：524853362
